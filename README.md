@@ -31,12 +31,15 @@
 | Модель | CLCMA-01 |
 | Типи зразків | Мелена кава, кавове зерно |
 | Шкала вимірювання | SCAA Agtron |
-| Діапазон вимірювання | 0-220 Agtron |
+| Діапазон вимірювання | 0-220 Agtron, точність — 0.1 |
 | Точність вимірювання | ±1 - для меленої кави; ±8 - для зерна |
-| Сенкор | Комерційний NIR-сенсор (850нм)  |
+| Сенкор | Комерційний NIR-сенсор (850нм) |
+| Час вимірювання | 12сек |
 | Історія вимірювань | 50 вимірювань |
 | Дисплей | Монохромний 0.96" OLED, 128x64px |
 | Акумулятор | Li-Ion 400mAh, 1.5Wh |
+| Час безперервної роботи |  години |
+| Час заряджання | 2 години |
 | Габарити | 63х58х58мм |
 | Вага (колориметр) | 117г |
 | Зарядний порт | USB Type-C, 5В⎓2А |
@@ -84,12 +87,15 @@ Technical specifications:
 | Model | CLCMA-01 |
 | Sample types | Ground coffee, coffee beans |
 | Measurement scale | SCAA Agtron |
-| Measurement range | 0-220 Agtron |
+| Measurement range | 0-220 Agtron, resolution — 0.1 |
 | Measurement accuracy | ±1 - for ground coffee; ±8 - for beans |
-| Senkor | Commercial NIR sensor (850nm) |
+| Sensor | Commercial NIR sensor (850nm) |
+| Measurement time | 12sec |
 | Measurement history | 50 measurements |
 | Display | Monochrome 0.96" OLED, 128x64px |
 | Battery | Li-Ion 400mAh, 1.5Wh |
+| Continuous run time | X hours |
+| Charging time | 2 hours |
 | Dimensions | 63x58x58mm |
 | Weight (colormeter) | 117g |
 | Charging port | USB Type-C, 5V⎓2A |
