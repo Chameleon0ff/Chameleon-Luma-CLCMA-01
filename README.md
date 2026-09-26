@@ -38,7 +38,7 @@
 | Історія вимірювань | 50 вимірювань |
 | Дисплей | Монохромний 0.96" OLED, 128x64px |
 | Акумулятор | Li-Ion 400mAh, 1.5Wh |
-| Час безперервної роботи |  години |
+| Час безперервної роботи | ≈1.5 години |
 | Час заряджання | 2 години |
 | Габарити | 63х58х58мм |
 | Вага (колориметр) | 117г |
@@ -94,7 +94,7 @@ Technical specifications:
 | Measurement history | 50 measurements |
 | Display | Monochrome 0.96" OLED, 128x64px |
 | Battery | Li-Ion 400mAh, 1.5Wh |
-| Continuous run time | X hours |
+| Continuous run time | ≈1.5 hours |
 | Charging time | 2 hours |
 | Dimensions | 63x58x58mm |
 | Weight (colormeter) | 117g |
